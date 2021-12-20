@@ -1,0 +1,5 @@
+C:\Users\ise01tr\source\repos\ETEBSProject\EPATSProject.Model\bin\Debug\EPATSProject.Model.dll
+C:\Users\ise01tr\source\repos\ETEBSProject\EPATSProject.Model\bin\Debug\EPATSProject.Model.pdb
+C:\Users\ise01tr\source\repos\ETEBSProject\EPATSProject.Model\obj\Debug\EPATSProject.Model.csproj.CoreCompileInputs.cache
+C:\Users\ise01tr\source\repos\ETEBSProject\EPATSProject.Model\obj\Debug\EPATSProject.Model.dll
+C:\Users\ise01tr\source\repos\ETEBSProject\EPATSProject.Model\obj\Debug\EPATSProject.Model.pdb
